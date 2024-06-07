@@ -8,7 +8,9 @@ nanoprocessor circuit.*
 
 ___
 
-![image](https://github.com/PathumiRanasinghe/NanoProcessorDesignProject/assets/162596287/7781bbb1-a428-4d5d-91b6-12678bd09839)
+
+![image](https://github.com/PathumiRanasinghe/Nano-Processor-Design-Project/assets/162596287/f253fdb6-37d7-44c9-86b4-2a33451d5910)
+
 
 ___
 
@@ -71,13 +73,13 @@ ___
 
 ## High level view
 
-![Screenshot (283)](https://github.com/PathumiRanasinghe/NanoProcessorDesignProject/assets/162596287/0b44b812-68d8-475e-b9a3-c39213b759ad)
+![Screenshot (283)](https://github.com/PathumiRanasinghe/Nano-Processor-Design-Project/assets/162596287/5f294c50-67b1-4f1b-8be4-225d8326b152)
 
 ___
 
 ## Top-level design
 
-![image](https://github.com/PathumiRanasinghe/NanoProcessorDesignProject/assets/162596287/b653e276-b35d-484f-a59d-f484e604ed27)
+![image](https://github.com/PathumiRanasinghe/Nano-Processor-Design-Project/assets/162596287/a1db8525-ac0e-4fe5-9c06-88ce51d3a612)
 
 ___
 
