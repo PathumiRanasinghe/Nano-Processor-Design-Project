@@ -86,8 +86,8 @@ ___
 ## Contributors
 
 - [MethmiRathnayaka](https://github.com/MethmiRathnayaka)
-- [Sanujiji](https://github.com/Sanujiji)
-- [sathsaranii](https://github.com/sathsaranii)
+- [Sanuji Samarakoon](https://github.com/sanujis)
+- [Sathsarani Amarasinghe](https://github.com/sathsaraniii)
 
 
 
